@@ -29,7 +29,7 @@ cityreader(cities)
 for c in cities:
     print(c)
 
-# STRETCH GOAL!
+# STRETCH GOAL
 #
 # Allow the user to input two points, each specified by latitude and longitude.
 # These points form the corners of a lat/lon square. Pass these latitude and 
